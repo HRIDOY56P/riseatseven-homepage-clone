@@ -24,6 +24,6 @@ Recreated the homepage of https://riseatseven.com/ with pixel-perfect accuracy.
 - Clean component structure
 
 ## 📸 Screenshots
-(Add screenshots here)
+
 
 
