@@ -1,27 +1,29 @@
 # riseatseven-homepage-clone
 
 
-## 🔗 Live Demo
+##  Live Demo
 (Add your deployed link here - Vercel/Netlify)
 
-## 📌 Task Description
+##  Task Description
 Recreated the homepage of https://riseatseven.com/ with pixel-perfect accuracy.
 
-## 🚀 Features
+##  Features
 - Fully responsive (mobile + desktop)
 - Hamburger menu with animation
 - Exact spacing, typography, and layout
 - Smooth scrolling & UI interactions
 
-## 🛠 Tech Stack
+##  Tech Stack
 - React.js
 - Tailwind CSS / CSS
 - JavaScript
 
-## 🎯 Focus
+##  Focus
 - Pixel-perfect UI
 - Responsiveness
 - Clean component structure
 
 ## 📸 Screenshots
 (Add screenshots here)
+
+
