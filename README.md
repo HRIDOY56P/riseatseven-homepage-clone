@@ -2,7 +2,7 @@
 
 
 ##  Live Demo
-(Add your deployed link here - Vercel/Netlify)
+https://riseatseven-homepage-clone.vercel.app/
 
 ##  Task Description
 Recreated the homepage of https://riseatseven.com/ with pixel-perfect accuracy.
